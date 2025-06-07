@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FotCast</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="categories_array">
+        <item>Sports</item>
+        <item>Education</item>
+    </string-array>
+</resources>

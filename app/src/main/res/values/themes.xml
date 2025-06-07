@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App Theme -->
+    <style name="Theme.FotCast" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#156AEF</item>
+        <item name="colorPrimaryDark">#0F4AC9</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- Splash Theme for Android 12+ -->
+    <style name="Theme.FotCast.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splashBackground</item>
+    </style>
+
+</resources>

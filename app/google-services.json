@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558476855450",
+    "project_id": "fotcast",
+    "storage_bucket": "fotcast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558476855450:android:858035c951dfc0b8963723",
+        "android_client_info": {
+          "package_name": "com.FotCast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOY_FSE85cS-zGjXfyYM48AimAXPBjxIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558476855450:android:3ea7e617ccff7922963723",
+        "android_client_info": {
+          "package_name": "com.example.fotcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOY_FSE85cS-zGjXfyYM48AimAXPBjxIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

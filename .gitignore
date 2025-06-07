@@ -1,0 +1,26 @@
+# Java/Android
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+
+# Build and intermediate files
+/build/
+*/build/
+.cxx/
+.externalNativeBuild/
+
+# Android Studio navigation and caches
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Captures and generated
+captures/
+
+# OS-specific
+Thumbs.db
